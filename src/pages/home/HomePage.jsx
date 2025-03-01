@@ -10,6 +10,7 @@ function HomePage() {
       <Hero/>
       <Articles/>
       <CTA/>
+      
     </MainLayout>
   )
 }
